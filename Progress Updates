@@ -1,14 +1,14 @@
 1
-Opening login page and capturing screenshot and console logs
+Initializing git repository and pushing code
 
 2
-Awaiting user to open login page and confirm it renders, then test login with provided credentials
+Using full Git path to initialize repository and push code
 
 3
-Awaiting user to open login page and test login with provided credentials
+Installing dependencies and deploying to GitHub Pages
 
 4
-Waiting for user to open login page and test login with provided credentials
+Deploying to GitHub Pages
 
 5
-Awaiting user to open login page and test login with provided credentials
+Fixing PATH and redeploying to GitHub Pages
